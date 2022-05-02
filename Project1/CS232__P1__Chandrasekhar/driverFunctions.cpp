@@ -5,7 +5,7 @@
 //
 // This file contains contains the implementations for auxiliary "helper" functions for the driver
 //
-// Programmer         : B.J. STRELLER
+// Programmer         : Rishi Chandraskhar
 //
 // Date created       : 
 //
