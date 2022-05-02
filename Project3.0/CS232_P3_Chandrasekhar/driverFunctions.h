@@ -5,7 +5,7 @@
 //
 // This file contains contains the prototypes for auxiliary "helper" functions for the driver
 //
-// Programmer         : B.J. STRELLER
+// Programmer         : Rishi Chandrasekhar
 //
 // Date created       : 
 //
