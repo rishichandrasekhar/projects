@@ -5,7 +5,7 @@
 //
 // This file contains "defintion" of a templated version of a graph/network adt.
 //
-// Programmer         : B.J. STRELLER
+// Programmer         : Rishi Chandrasekhar
 //
 // Date created       : 
 //
