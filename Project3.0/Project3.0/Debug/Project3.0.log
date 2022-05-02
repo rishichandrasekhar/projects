@@ -1,0 +1,17 @@
+﻿  digraph.cpp
+  driver.cpp
+  driverFunctions.cpp
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(938,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(904): message :  while compiling class template member function 'void Digraph<std::string,int>::fords(V &)'
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(904): message :         with
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(904): message :         [
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(904): message :             V=std::string
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\digraph.t(904): message :         ]
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(167): message :  see reference to function template instantiation 'void Digraph<std::string,int>::fords(V &)' being compiled
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(167): message :         with
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(167): message :         [
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(167): message :             V=std::string
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(167): message :         ]
+  Generating Code...
+C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\driverFunctions.cpp(47): message :  see reference to class template instantiation 'Digraph<std::string,int>' being compiled
+  Project3.0.vcxproj -> C:\Users\chandrrj995\OneDrive - Erie Community College\CS232\Project3.0\Project3.0\Debug\Project3.0.exe
