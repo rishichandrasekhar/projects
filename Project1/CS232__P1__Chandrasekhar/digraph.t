@@ -5,7 +5,7 @@
 //
 // This file contains contains the implementations of the templated graph functions
 //
-// Programmer         : B.J. STRELLER AND ?????
+// Programmer         : Rishi Chandrasekhar
 //
 // Date created       : 
 //
