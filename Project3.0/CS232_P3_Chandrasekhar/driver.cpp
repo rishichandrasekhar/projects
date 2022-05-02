@@ -5,7 +5,7 @@
 //
 // This program tests/drives all methods of the graph( or network ) adt implemented in the file digraph.h. 
 //
-// Programmer        : B.J. Streller
+// Programmer        : Rishi Chandrasekhar
 //
 // Date created      : 
 //
