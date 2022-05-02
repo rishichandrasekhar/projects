@@ -6,7 +6,7 @@
 //
 // This file contains contains the implementations of non-templated graph functions
 //
-// Programmer         : B.J. STRELLER
+// Programmer         : Rishi Chandrasekhar
 //
 // Date created       : 
 //
